@@ -13,14 +13,18 @@ BBD has significantly contributed to Flipkart’s revenue and market dominance, 
 # Findings
 
 1. Customer Demographics & Behavior
-Young Shoppers (18-30) Drive Sales (27.77%) – Attracted by discounts on fashion and electronics.
-Middle-Aged Buyers (31-60) Show Steady Demand (~21%) – Strong demand for home essentials and big-ticket items.
-Low Senior Engagement (60+) (8.43%) – Possible due to digital adoption barriers and offline shopping preferences.
+> Young Shoppers (18-30) Drive Sales (27.77%) – Attracted by discounts on fashion and electronics.
+
+> Middle-Aged Buyers (31-60) Show Steady Demand (~21%) – Strong demand for home essentials and big-ticket items.
+
+> Low Senior Engagement (60+) (8.43%) – Possible due to digital adoption barriers and offline shopping preferences.
 
 2. Regional Distribution
-Metro Cities (Mumbai, Kolkata, Bangalore) Dominate Sales.
-Western & Northern India Show Strong Engagement (Maharashtra, Gujarat, Delhi).
-Growth Potential in Tier-2 Cities (Jaipur, Lucknow).
+> Metro Cities (Mumbai, Kolkata, Bangalore) Dominate Sales.
+
+> Western & Northern India Show Strong Engagement (Maharashtra, Gujarat, Delhi).
+
+> Growth Potential in Tier-2 Cities (Jaipur, Lucknow).
 
 3. Order & Sales Trends
 Peak Sales During BBD (2,015 Orders/Day, 4x Higher than Pre/Post Periods).
